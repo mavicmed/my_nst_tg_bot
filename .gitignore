@@ -1,0 +1,8 @@
+/__pycache__
+/var/**
+/users/**
+*.jpg
+*.png
+*.gif
+*.txt
+key.txt
